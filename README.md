@@ -4,6 +4,6 @@
 
 ## Start a chapter
 
-## Become an assosiate
+## Become an associate
 
 ## Become a member
