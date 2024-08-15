@@ -47,7 +47,7 @@ Once your chapter has been approved, you and your group agree to use your chapte
 Do not use the chapter for commercial activities, your events should be not for profit.
    
 ## Process overview
-***Ready to become a chapter lead? ***
+***Ready to become a chapter lead?***
 - Prior to starting your own Global AI Community chapter, please first join our [INSERT JOIN LINK], and head to #new-chapters channel. We encourage you to seek mentorship from experienced chapter leads, and for you to ask questions about starting your own chapter.
 - Once you’re ready to start your own group, please fill in the [CHAPTER FORM].
 - We review new chapter requests once per month. Your request will be reviewed in the following month after you file your request. For example, if you filled in the form in March 2024, it will be reviewed in April 2024.
