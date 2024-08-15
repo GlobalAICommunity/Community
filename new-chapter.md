@@ -19,7 +19,7 @@ When requesting a chapter, we ask that it be local and city-based. If an existin
 - A sponsored Meetup Pro subscription for your chapter under the [Global AI Community Network](https://www.meetup.com/pro/the-global-ai-community/).
 - Resources for branding, including banners for MeetUp, socials, events and your own Chapter Logo.
 - Ability to send digital badges to your attendees.
-- Ability to use our global channels like YouTube, Twitter and LinkedIn to post updates about your chapter and stream your video content.
+- Ability to use our global channels like [YouTube](https://www.youtube.com/globalaicommunity), [Twitter](https://x.com/GlobAICommunity) and [LinkedIn](https://www.linkedin.com/company/global-ai-community) to post updates about your chapter and stream your video content.
 - Contribute content to global initiatives like Global AI Weekly and Global AI Notes, to reach a global audience around the world.
 - Monthly office hours for chapter leads.
 - Support channel on Slack for chapter leads.
