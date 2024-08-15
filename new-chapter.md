@@ -23,23 +23,29 @@ When requesting a chapter, we ask that it be local and city-based. If an existin
 **Be an active chapter**    
 You will help organize or support co-organization of at least one meetup per three months.
 As an organizer, you are not necessarily expected to be the one creating content or giving talks or workshops. It is expected for you to invite local speakers and create opportunities for aspiring new speakers among your members.
+   
 **Work together**   
 We require at least two organizers in your group to help share the workload and prevent burnout from any single organizer.
 You will be responsible for notifying Global AI Community leadership of changes in your organizing team. For example, if you have new organizers, or if an organizer stepped down.
+   
 **Be part of the Global Community**    
 Participate in global initiatives, like the Global AI Bootcamp, Global AI Conference, live streams and newsletters,
 You may be asked from time to time to share any news from Global AI Community leadership team to your members.
 You will be asked to provide a report of your group activities once a year to the Global AI Community Leadership team.
+   
 **Be inclusive to everyone**    
 Have an open registration for events and free entrance.
+   
 **Create a safe place**    
 All Global AI events (Meetups, conference lunches, etc), online spaces (IRC, Facebook, etc) are beholden to the Global AI Community Code of Conduct. Every chapter is required to make the code of conduct public in some way. 
+   
 **Be the brand**    
 Only use your @globalai.community email to communicate with your members.
 Once your chapter has been approved, you and your group agree to use your chapters @globalai.community email address to conduct your business. For example, for any email communications with your members, and for creating meetup and social media accounts.
+   
 **Be authentic**    
 Do not use the chapter for commercial activities, your events should be not for profit.
-
+   
 ## Process overview
 ***Ready to become a chapter lead? ***
 - Prior to starting your own Global AI Community chapter, please first join our [INSERT JOIN LINK], and head to #new-chapters channel. We encourage you to seek mentorship from experienced chapter leads, and for you to ask questions about starting your own chapter.
