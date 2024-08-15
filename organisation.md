@@ -1,4 +1,4 @@
-# Organisation
+# Organisation structure
 
 
 ## Global AI HQ
