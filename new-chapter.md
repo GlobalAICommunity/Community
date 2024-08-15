@@ -19,6 +19,8 @@ When requesting a chapter, we ask that it be local and city-based. If an existin
 - Ability to send digital badges to your attendees.
 - Ability to use our global channels like YouTube, Twitter and LinkedIn to post updates about your chapter and stream your video content.
 - Contribute content to global initiatives like Global AI Weekly and Global AI Notes, to reach a global audience around the world.
+- Monthly office hours for chapter leads.
+- Support channel on Slack for chapter leads.
 
 ## Role and Responsibilities of the Chapter lead
 **Be an active chapter**    
