@@ -16,7 +16,7 @@ When requesting a chapter, we ask that it be local and city-based. If an existin
 ## Benefits for chapters
 - As a chapter in the Global AI Community, you get benefits to help you run your chapter.
 - A <your chapter>@globalai.community Office 365 Business Standard License.
-- A Free Meetup Pro subscription for your chapter: https://www.meetup.com/pro/the-global-ai-community/. You can use Meetup Pro to schedule events, and ... [OTHER BENEFITS - INCLUDE A LINK]
+- A sponsored Meetup Pro subscription for your chapter under the [Global AI Community Network](https://www.meetup.com/pro/the-global-ai-community/).
 - Resources for branding, including banners for MeetUp, socials, events and your own Chapter Logo.
 - Ability to send digital badges to your attendees.
 - Ability to use our global channels like YouTube, Twitter and LinkedIn to post updates about your chapter and stream your video content.
@@ -53,8 +53,8 @@ Do not use the chapter for commercial activities, your events should be not for 
    
 ## Process overview
 ***Ready to become a chapter lead?***
-- Prior to starting your own Global AI Community chapter, please first join our [INSERT JOIN LINK], and head to #new-chapters channel. We encourage you to seek mentorship from experienced chapter leads, and for you to ask questions about starting your own chapter.
-- Once you’re ready to start your own group, please fill in the [CHAPTER FORM].
+- Prior to starting your own Global AI Community chapter, please first [join our Slack Community](http://slack.globalai.community/), and head to #new-chapters channel. We encourage you to seek mentorship from experienced chapter leads, and for you to ask questions about starting your own chapter.
+- Once you’re ready to start your own group, [please fill in the form](https://forms.office.com/e/zQAYMdiZr0).
 - We review new chapter requests once per month. Your request will be reviewed in the following month after you file your request. For example, if you filled in the form in March 2024, it will be reviewed in April 2024.
 - If we approve your request, we will send you a welcome package with your groups @globalai.community email address credentials and guidance on how to set up your Meetup account and other related social media account, like Twitter, Facebook, etc.
 - Please do not purchase domains or setup email addresses; we will do that for you! We need to maintain accounts (both for trademark and administrative purposes).
