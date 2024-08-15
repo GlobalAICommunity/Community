@@ -55,30 +55,31 @@ Do not use the chapter for commercial activities, your events should be not for 
 - Please do not purchase domains or setup email addresses; we will do that for you! We need to maintain accounts (both for trademark and administrative purposes).
 
 ## Frequently asked questions
-Question: How much does it cost to be a chapter lead for Global AI Community?
-There is no cost to the Global AI Community for being a chapter lead. The global AI Community is run by volunteers.
-
-Question: Are all applications accepted?
-No, not all applications are accepted, but don't worry that does not happen a lot. 
+**Question:** How much does it cost to be a chapter lead for Global AI Community?
+**Answer:** There is no cost to the Global AI Community for being a chapter lead. The global AI Community is run by volunteers.
+   
+**Question:** Are all applications accepted?
+**Answer:** No, not all applications are accepted, but don't worry that does not happen a lot. 
 A few reasons of not being accepted are:
 Having one organizer.
 There is already an active chapter in the city
-
-Question: Can I convert my current meetup/usergroup to a chapter.
-Yes, it is possible to rebrand your current meetup/usergroup to a global ai chapter. 
-
-Question: What kind of activities does a chapter do?
-Organize MeetUps (Small local events)
+   
+**Question:**  Can I convert my current meetup/usergroup to a chapter.
+**Answer:** Yes, it is possible to rebrand your current meetup/usergroup to a global ai chapter. 
+   
+**Question:** What kind of activities does a chapter do?
+**Answer:** Organize MeetUps (Small local events)
 Organize virtual meetups (Teams / Youtube)
 Run discussion groups o
-
-Question: What are some examples of successful Global AI Community chapters?
-
-Question: Can the Global AI Community provide sponsorship in the form of food and cash to my events.
-No, the Global AI Community does not provide financial support to events.
-
-Question: Where does Global AI Community get its funding?
-Global AI is funded through sponsors. Look at the sponsor page to see the current sponsors and read about how you can become a sponsor of the Global AI Community.
+   
+**Question:**  What are some examples of successful Global AI Community chapters?
+**Answer:** 
+   
+**Question:** Can the Global AI Community provide sponsorship in the form of food and cash to my events.
+**Answer:** No, the Global AI Community does not provide financial support to events.
+   
+**Question:**  Where does Global AI Community get its funding?
+**Answer:** Global AI is funded through sponsors. Look at the sponsor page to see the current sponsors and read about how you can become a sponsor of the Global AI Community.
 
 
 
