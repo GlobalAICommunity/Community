@@ -74,12 +74,7 @@ There is already an active chapter in the city
 **Answer:** Yes, it is possible to rebrand your current meetup/usergroup to a global ai chapter. 
    
 **Question:** What kind of activities does a chapter do?   
-**Answer:** Organize MeetUps (Small local events)
-Organize virtual meetups (Teams / Youtube)
-Run discussion groups o
-   
-**Question:**  What are some examples of successful Global AI Community chapters?   
-**Answer:** 
+**Answer:** Organize MeetUps (Small local events), organize virtual meetups (Teams / Youtube), run discussion groups
    
 **Question:** Can the Global AI Community provide sponsorship in the form of food and cash to my events.   
 **Answer:** No, the Global AI Community does not provide financial support to events.
