@@ -9,7 +9,7 @@ To help you get started, we've put this guide together for starting your own Glo
 
 ## Guidelines for Starting Your Chapter
 When you start your own Global AI Chapter, you’ll be helping to build and grow a local AI community, through organizing events in your city.
-A Global AI Chapter is not meant for a one-time event or workshop. There is an expectation for ongoing community activities through your chapter, at least once every three months. Some of our groups hold events on a monthly cadence.
+A Global AI Chapter is not meant for a one-time event or workshop. There is an expectation for ongoing community activities through your chapter, at least once every three months. Some of our groups hold events on a monthly cadence.    
 We require at least two organizers in your group to help share the workload and prevent burnout from any single organizer.
 When requesting a chapter, we ask that it be local and city-based. If an existing chapter already exists in your city, a second one may be allowed depending on circumstances.
 
