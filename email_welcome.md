@@ -3,12 +3,12 @@ Hi {{name}},
 Welcome to the Global AI Community, we are super excited to see the {{chapter_name}} taking off and welcome you as chapter lead. In this email you find all the information to get your chapter started. For any questions please reach out on slack or send an email to hq@globalai.community.
 
 ### Your checklist for starting you chapter
-
-[] Activate and setup your chapter email
-[] Login into your chapters space
-[] Checkout your branding
-[] Setup your chapter on MeetUp 
-[] Start organizing
+   
+[] Activate and setup your chapter email   
+[] Login into your chapters space   
+[] Checkout your branding    
+[] Setup your chapter on MeetUp    
+[] Start organizing   
 
 
 
