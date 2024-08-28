@@ -10,8 +10,7 @@ Link: https://portal.office.com
 Username: {{chapter_username}}@globalai.community   
 Password: {{office_password}}
 
-Only use your @globalai.community email to communicate with your members. Once your chapter has been approved, you and your group agree to use your chapters @globalai.community email address to conduct your business. For example, for any email communications with your members, and for creating meetup and social media accounts.
-
+Only use your @globalai.community email to communicate with your members. You and your group agree to use your chapters @globalai.community email address to conduct your business. For example, for any email communications with your members, and for creating meetup and social media accounts.
 
 ### Chapter website
 Every chapter has their own personal space on the Global AI Community. 
@@ -23,16 +22,16 @@ In your chapter space you can:
 - Add videos
 - Add news and blogs
 
-
 Link: https://globalai.community/umbraco   
 Username: {{chapter_username}}@globalai.community   
 Password: {{website_password}}   
 
-
-
 ### Branding
+You can find your branding in the community GitHub repository.
 
+Link: https://https://github.com/GlobalAICommunity/Chapters/Branding/{{chapter_username}}
 
+Only use the official branding when communication about your chapter.
 
 
 ### Meetup Pro 
