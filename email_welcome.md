@@ -34,7 +34,7 @@ In the backoffice you also find a dashboard, with usefull links to resources lik
 *Please not we are continuously working on adding new features to the chapter space.*
 
 ### Email address
-For your chapter you have a unique email adress with office 365 licence from to community to your community with.
+For your chapter you have a unique email adress with an Microsoft 365 licence from to community to your community with.
 
 Link: https://portal.office.com    
 Username: {{chapter_username}}@globalai.community   
