@@ -22,7 +22,8 @@ In your chapter space you can:
 - Add videos
 - Add news and blogs
 
-Link: https://globalai.community/umbraco   
+Chapter page: https://globalai.community/chapters/{{chapter_username}}   
+Link to edit: https://globalai.community/umbraco   
 Username: {{chapter_username}}@globalai.community   
 Password: {{website_password}}   
 
