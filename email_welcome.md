@@ -10,9 +10,6 @@ Welcome to the Global AI Community, we are super excited to see the {{chapter_na
 [] Setup your chapter on MeetUp    
 [] Start organizing   
 
-
-
-
 ### Chapter Space
 Every chapter has their own personal space on the Global AI Community. 
 
@@ -34,6 +31,8 @@ In the backoffice you also find a dashboard, with usefull links to resources lik
 - Request form to stream via StreamYard on the Global AI Channels (Youtube / Facebook / LinkedIn / X)
 - Statistics of your chapter
 
+*Please not we are continuously working on adding new features to the chapter space.*
+
 ### Email address
 For your chapter you have a unique email adress with office 365 licence from to community to your community with.
 
@@ -53,7 +52,7 @@ Only use the official branding when communication about your chapter.
 ### Meetup Pro 
 Please use the link below to connect your existing or new MeetUp group to the Global AI Community Network.   
 
-- The group should be named: Global AI <city> for example: Global AI Amsterdam and not Global AI Netherlands.
+- The group should be named: {{chapter_name}} for example: Global AI Amsterdam and not Global AI Netherlands.
 - Use your @globalai.community email as organizer account to setup the meetup group
 - Add hq@globalai.community as co-organizer to meetup group. 
 
