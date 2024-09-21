@@ -18,7 +18,7 @@
 
 ## Talking points
 
-#### Global AI Community
+### Global AI Community
 The Global AI Community is the largest connected community around the world. With over 250 local communities and 70.000 members it covers the globe!
 The mission is to connect AI communities across the world to share ideas and content with each other. To enable AI enthusiasts and professionals to join local user groups, connect with like-minded peers, or start their own user group.
 - [Homepage](https://globalai.community)
