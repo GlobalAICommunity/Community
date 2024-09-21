@@ -1,9 +1,5 @@
 # Mexico City
 
-
-
-
-
 ## Booth setup instructions
 - [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community.mp4) the Global AI Teaser Video [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
 - Play the video on repeat full-screen
@@ -11,15 +7,11 @@
 
 ## Talking points
 
-
-### Global AI Community
+#### Global AI Community
 The Global AI Community is the largest connected community around the world. With over 250 local communities and 70.000 members it covers the globe!
 The mission is to connect AI communities across the world to share ideas and content with each other. To enable AI enthusiasts and professionals to join local user groups, connect with like-minded peers, or start their own user group.
 - [Homepage](https://globalai.community)
 - [Start your own chapter](https://globalai.community/about/start-a-chapter/)
-
-
-### Events and Content
 
 #### Global AI Bootcamp
 Taking place in March 2025. The Global AI Bootcamp is an annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions. Local chapters of the Global AI Community host the events in various locations across the globe. This year, the bootcamp will take place in the full month of March 2025.
