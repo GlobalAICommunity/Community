@@ -4,7 +4,7 @@
 ## The Booth
 
 #### Setup instructions
-- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community.mp4) the Global AI Teaser Video [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
+- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-mexico.mp4)  the Global AI Teaser Video to the desktop [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
 - Play the video on repeat full-screen
 - You should find around 500 stickers with Mexico City Tour badges
 
