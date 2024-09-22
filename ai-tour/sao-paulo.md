@@ -9,7 +9,7 @@
 
 #### Call to actions:
 - Inform people about the Global AI Community
-- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-mexico/))
+- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-sao-paulo/))
 - During the process they can subscribe to your chapter, global ai weekly and the general newsletter.
 
 
