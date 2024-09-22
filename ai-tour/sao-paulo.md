@@ -3,7 +3,7 @@
 ## The Booth
 
 #### Setup instructions
-- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-sao-paulo.mp4)  the Global AI Teaser Video to the desktop [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
+- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-sao-paulo.mp4)  the Global AI Teaser Video to the desktop [Youtube version](https://youtu.be/BiDRAc84e-c).
 - Play the video on repeat full-screen
 - You should find around 500 stickers with Sao Paulo Tour badges
 
