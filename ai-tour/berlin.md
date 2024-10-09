@@ -4,13 +4,13 @@
 ## The Booth
 
 #### Setup instructions
-- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-mexico.mp4)  the Global AI Teaser Video to the desktop [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
+- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-berlin.mp4)  the Global AI Teaser Video to the desktop [Youtube version](https://www.youtube.com/watch?v=YNvVIeVfpIA).
 - Play the video on repeat full-screen
-- You should find around 500 stickers with Mexico City Tour badges
+- You should find around 500 stickers with Berlin Tour badges
 
 #### Call to actions:
 - Inform people about the Global AI Community
-- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-mexico/))
+- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-berlin/))
 - During the process they can subscribe to your chapter, global ai weekly and the general newsletter.
 
 
