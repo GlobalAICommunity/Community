@@ -41,7 +41,7 @@ Depending on your location, you may have the following rights concerning your pe
 - **Non-Discrimination:** You have the right not to face discrimination if you exercise your privacy rights.
 #### **Other Regions**
 Members from other regions may have similar rights under applicable privacy laws, including the **Personal Data Protection Act (PDPA)** in Singapore and **Japan’s Act on the Protection of Personal Information (APPI)**.
-To exercise any of these rights, please contact us at [Contact Email].
+To exercise any of these rights, please contact us at hq@globalai.community.
 ### 5. **How We Share Your Information**
 We do not sell your personal data. However, we may share data with:
 - **Service Providers:** To help us operate our community (e.g., hosting, analytics, email services).
@@ -59,6 +59,5 @@ Our community is not intended for children under the age of 16. We do not knowin
 We may update this policy periodically to reflect changes in our practices or regulatory requirements. The updated policy will be posted on our website with the "Last Updated" date.
 ### 11. **Contact Us**
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-- **Email:** [Contact Email]
-- **Address:** [Business Address]
----
+- **Email:** hq@globalai.community
+- **Address:** Dennenhorst 3, 3972 GL, Driebergen, The Netherlands
