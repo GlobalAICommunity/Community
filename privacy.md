@@ -1,11 +1,11 @@
-## Privacy Policy for Global AI Community**
+## Privacy Policy for Global AI Community
 
 **Effective Date:** December 2018  
 **Last Updated:** 13 November 2024      
    
 Welcome to Privacy Policy for Global AI Community! We value your privacy and are committed to protecting your personal data in compliance with applicable laws, including the General Data Protection Regulation (GDPR) in the European Union, the California Consumer Privacy Act (CCPA) in the United States, and other relevant privacy laws in various regions. This Privacy Policy outlines how we collect, use, and protect your data.    
 
-### 1. **Information We Collect**
+## 1. **Information We Collect**
 We collect personal data to provide a customized experience for our community members. The types of data we collect may include:
 - **Personal Identification Information:** Name, email address, username, and password.
 - **Contact Information:** Email address and social media handles.
