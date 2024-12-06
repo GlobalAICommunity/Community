@@ -10,7 +10,7 @@
 
 #### Call to actions:
 - Inform people about the Global AI Community
-- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-toronto/))
+- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-sydney/))
 - During the process they can subscribe to your chapter, global ai weekly and the general newsletter.
 
 
