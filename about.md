@@ -11,7 +11,7 @@ The Global AI Community empowers developers who are passionate about AI to share
 
 ## Contact details
 
-**Stichting Global AI Community**
+**Stichting Global AI Community**    
 Dennenhorst 3    
 3972GL Driebergen   
 The Netherlands    
