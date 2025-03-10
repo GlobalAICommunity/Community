@@ -16,5 +16,5 @@ Dennenhorst 3
 3972GL Driebergen   
 The Netherlands    
     
-Champer of Commerce: [96447265](https://www.kvk.nl/bestellen/#/96447265)     
+Chamber of Commerce: [96447265](https://www.kvk.nl/bestellen/#/96447265)     
 Email: hq@globalai.community
