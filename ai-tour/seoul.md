@@ -1,16 +1,16 @@
-# London
+# Seoul
 
 
 ## The Booth
 
 #### Setup instructions
-- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-london.mp4) the Global AI Teaser Video to the desktop.
+- [Download](https://globalaidata.blob.core.windows.net/downloads/global-ai-community-seoul.mp4) the Global AI Teaser Video to the desktop.
 - Play the video on repeat full-screen
-- You should find around 500 stickers with London Tour badges
+- You should find around 500 stickers with Seoul Tour badges
 
 #### Call to actions:
 - Inform people about the Global AI Community
-- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-london/))
+- Get people to register for a digital badge ([Try it yourself](https://gaic.io/badge-seoul/))
 - During the process they can subscribe to your chapter, global ai weekly and the general newsletter.
 
 ## Talking points
