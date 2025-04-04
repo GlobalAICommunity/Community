@@ -1,3 +1,5 @@
+# Diversity Pledge for Global AI Community Organizers
+
 As community organizers, we pledge to intentionally foster diversity, equity, inclusion, and belonging within every facet of our work. We commit ourselves to:  
    
 1. **Respect and Value Diversity**: Recognize and honor the richness of diversity in race, ethnicity, gender identity, sexual orientation, age, religion, socioeconomic status, ability, and lived experience.  
