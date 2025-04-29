@@ -4,8 +4,6 @@
 
 The Global AI Community Code of Conduct provides a clear set of guidelines designed to foster a welcoming, inclusive, and safe environment for all participants—whether attending online or in-person events. Drawing on best practices from established models like the Contributor Covenant, it articulates expected behaviors, enumerates unacceptable actions, and explains reporting and enforcement procedures to maintain community standards.
 
----
-
 ## 1. Purpose
 
 This Code of Conduct aims to:
@@ -13,15 +11,11 @@ This Code of Conduct aims to:
 - **Set Behavioral Expectations:** Provide a handbook of how participants should conduct themselves to ensure a positive experience for everyone.
 - **Outline Enforcement:** Clarify how reports of misconduct will be handled, ensuring transparency and fairness throughout the process.
 
----
-
 ## 2. Scope
 
 This Code applies to:
 - **All Global AI Community Events:** Including but not limited to workshops, conferences, meetups, webinars, hackathons, and social gatherings—both online and in physical venues.
 - **Every Participant:** Attendees, speakers, volunteers, organizers, sponsors, exhibitors, and any other users of community channels (forums, chat, social media).
-
----
 
 ## 3. Expected Behavior
 
@@ -36,8 +30,6 @@ Participants are encouraged to:
    - Focus on what’s best for the community; help newcomers feel welcome.  
    - Comply with all event and platform policies, as well as local laws and venue regulations.
 
----
-
 ## 4. Unacceptable Behavior
 
 Examples of prohibited conduct include (but are not limited to):
@@ -46,8 +38,6 @@ Examples of prohibited conduct include (but are not limited to):
 - **Sexual Harassment:** Unwelcome sexual attention, advances, or sexual language and imagery in any conference venue, online or offline .  
 - **Invasion of Privacy:** Logging or taking screenshots of private online activity without explicit permission; sharing others’ personal information without consent .  
 - **Disruption:** Sustained disruption of talks, workshops, or other events; excessive swearing meant to intimidate or offend.
-
----
 
 ## 5. Reporting and Enforcement
 
@@ -61,8 +51,6 @@ Examples of prohibited conduct include (but are not limited to):
    - **Warning:** A formal notice that behavior must change.  
    - **Temporary Action:** Removal from specific sessions or suspension of community privileges.  
    - **Permanent Ban:** Expulsion from all future events and channels for severe or repeated violations.
-
----
 
 ## 6. Integration and Acknowledgments
 
