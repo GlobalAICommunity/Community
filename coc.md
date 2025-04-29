@@ -2,24 +2,24 @@
 
 ## Summary
 
-The Global AI Community Code of Conduct provides a clear set of guidelines designed to foster a welcoming, inclusive, and safe environment for all participants—whether attending online or in-person events. Drawing on best practices from established models like the Contributor Covenant, it articulates expected behaviors, enumerates unacceptable actions, and explains reporting and enforcement procedures to maintain community standards  ([Contributor Covenant: A Code of Conduct for Open Source and ...](https://www.contributor-covenant.org/?utm_source=chatgpt.com)) ([Best practices guide for a Code of Conduct for events](https://policies.python.org/python.org/code-of-conduct/Best-Practices/?utm_source=chatgpt.com)).
+The Global AI Community Code of Conduct provides a clear set of guidelines designed to foster a welcoming, inclusive, and safe environment for all participants—whether attending online or in-person events. Drawing on best practices from established models like the Contributor Covenant, it articulates expected behaviors, enumerates unacceptable actions, and explains reporting and enforcement procedures to maintain community standards.
 
 ---
 
 ## 1. Purpose
 
 This Code of Conduct aims to:
-- **Define Community Values:** Make explicit our commitment to respect, empathy, and inclusion for people of all backgrounds and identities  ([Contributor Covenant: A Code of Conduct for Open Source and ...](https://www.contributor-covenant.org/?utm_source=chatgpt.com)).  
-- **Set Behavioral Expectations:** Provide a handbook of how participants should conduct themselves to ensure a positive experience for everyone  ([Best practices guide for a Code of Conduct for events](https://policies.python.org/python.org/code-of-conduct/Best-Practices/?utm_source=chatgpt.com)).  
-- **Outline Enforcement:** Clarify how reports of misconduct will be handled, ensuring transparency and fairness throughout the process  ([PyCon US Code of Conduct Enforcement Procedures](https://policies.python.org/us.pycon.org/code-of-conduct/Enforcement-Procedures/?utm_source=chatgpt.com)).
+- **Define Community Values:** Make explicit our commitment to respect, empathy, and inclusion for people of all backgrounds and identities.
+- **Set Behavioral Expectations:** Provide a handbook of how participants should conduct themselves to ensure a positive experience for everyone.
+- **Outline Enforcement:** Clarify how reports of misconduct will be handled, ensuring transparency and fairness throughout the process.
 
 ---
 
 ## 2. Scope
 
 This Code applies to:
-- **All Global AI Community Events:** Including but not limited to workshops, conferences, meetups, webinars, hackathons, and social gatherings—both online and in physical venues  ([Conference Code of Conduct](https://confcodeofconduct.com/?utm_source=chatgpt.com)).  
-- **Every Participant:** Attendees, speakers, volunteers, organizers, sponsors, exhibitors, and any other users of community channels (forums, chat, social media)  ([Event Code of Conduct - Conference Policies - CASE](https://www.case.org/conferences-training/conference-policies/conference-code-conduct?utm_source=chatgpt.com)).
+- **All Global AI Community Events:** Including but not limited to workshops, conferences, meetups, webinars, hackathons, and social gatherings—both online and in physical venues.
+- **Every Participant:** Attendees, speakers, volunteers, organizers, sponsors, exhibitors, and any other users of community channels (forums, chat, social media).
 
 ---
 
