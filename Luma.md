@@ -15,6 +15,6 @@ Your registration signifies your consent for the Global AI Chapter to share your
 We commit to handling your data securely and in accordance with applicable data protection laws. You retain the right to access, update, or request deletion of your personal information by contacting us directly.
 
 **5. Opt-Out:**  
-You may withdraw your consent or unsubscribe from our communications at any time by following the instructions provided in each communication or contacting us directly.
+You may withdraw your consent or unsubscribe from our communications at any time by [logging into](./auth/login) your account and updating your communication preferences or requesting complete removal of your information.
 
 By accepting these terms, you confirm your understanding and acceptance of the terms outlined above. For additional details, please review our full [Terms and Conditions](https://globalai.community/about/terms-and-conditions/).
