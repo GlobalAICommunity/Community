@@ -1,4 +1,4 @@
-## Privacy Policy for Global AI Community
+# Privacy Policy for Global AI Community
 
 **Effective Date:** December 2018  
 **Last Updated:** 13 November 2024      
