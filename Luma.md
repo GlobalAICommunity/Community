@@ -11,6 +11,9 @@ By accepting these terms, you become a member of the Global AI Chapter organizin
 **3. Sharing Information with Partners:**  
 Your registration signifies your consent for the Global AI Chapter to share your registration information with our event partners and sponsors. These third parties may contact you directly regarding related products, services, or future events.
 
+**3.1. Receiving information about Microsoft for Startups**
+By registering for this event you agree to receive information about Microsoft for Startups. Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes. You can view our full privacy statement here: [https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement)
+
 **4. Data Protection and Privacy:**  
 We commit to handling your data securely and in accordance with applicable data protection laws. You retain the right to access, update, or request deletion of your personal information by contacting us directly.
 
