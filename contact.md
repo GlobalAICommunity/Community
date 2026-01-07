@@ -8,7 +8,7 @@ Dennenhorst 3
 The Netherlands   
 
 
-### Non-Profit registation
+### Non-Profit registration
 The Global AI Community is registered at the Dutch Chamber of Commerce under number [96447265](https://www.kvk.nl/bestellen/#/96447265)    
 
 ### Contact
